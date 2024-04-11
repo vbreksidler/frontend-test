@@ -23,3 +23,19 @@ Aqui vai uma lista de requisitos obrigatórios:
 - Legibilidade do código
 - Capacidade de utilizar a documentação da API e da biblioteca utilizada
 - Não se esqueça de abrir um PR seguindo a regra e manter seus commits curtos
+
+### STEP BY STEP VICTOR
+ENVIROMENT:
+  - mkdir front-end-test-marq-victor-reksidler
+  - cd front-end-test-marq-victor-reksidler
+  - git init
+  - git clone git@github.com:vbreksidler/frontend-test.git
+  - git checkout -b front-end-test-marq-victor-reksidler
+  - npx create-react-app
+  - npm i echarts --save
+  - npm i tailwind
+
+
+DEVELOPMENT:
+  - fetch API https://pokeapi.co/api/v2/type
+
