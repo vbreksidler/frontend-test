@@ -48,6 +48,7 @@ DEVELOPMENT:
   - add style;
 
 FUTURE IMPROVEMENTS:
+  - componentized content;
   - add responsive design;
   - fetch more api's to build new's graph;
   - add a home page to select what kind of data you want to see;
