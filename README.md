@@ -37,5 +37,19 @@ ENVIROMENT:
 
 
 DEVELOPMENT:
-  - fetch API https://pokeapi.co/api/v2/type
+  - fetch API https://pokeapi.co/api/v2/type;
+  - useState to set the type data for the form;
+  - handleChange to set the fetch API for the eCharts data;
+  - use the graphData to show the graph with the type info;
+  - add echarts;
+  - add the logic to echarts using the data;
+    * Dynamic fetch the api, to bring the data numbers of the types of pokemon that get and do double damage;
+    * use async and await to feed the array;
+  - add style;
 
+FUTURE IMPROVEMENTS:
+  - add responsive design;
+  - fetch more api's to build new's graph;
+  - add a home page to select what kind of data you want to see;
+    
+[Screencast from 11-04-2024 01:13:44.webm](https://github.com/vbreksidler/front-end-test-marq-victor-reksidler/assets/94481634/ab4cea43-03c4-4d9a-9eeb-71435e5ebdcd)
