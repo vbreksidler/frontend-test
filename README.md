@@ -85,3 +85,8 @@ FUTURE IMPROVEMENTS:
   - add a home page to select what kind of data you want to see;</i>
     
 [Screencast from 11-04-2024 01:13:44.webm](https://github.com/vbreksidler/front-end-test-marq-victor-reksidler/assets/94481634/ab4cea43-03c4-4d9a-9eeb-71435e5ebdcd)
+
+Segue commits que estão no meu git privado:
+
+![image](https://github.com/vbreksidler/frontend-test/assets/94481634/50103b58-230c-4c73-bf70-1077d6517b55)
+
